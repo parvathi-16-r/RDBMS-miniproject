@@ -95,13 +95,3 @@ Contributions are welcome!
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
-
-Made with ❤️ by [Your Name](https://github.com/your-username)
